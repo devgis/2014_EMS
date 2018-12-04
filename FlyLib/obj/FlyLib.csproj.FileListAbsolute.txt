@@ -1,0 +1,10 @@
+E:\文档\项目\authmanager1.0.0(sql ser)\FlyLib\obj\Debug\ResolveAssemblyReference.cache
+E:\文档\项目\authmanager1.0.0(sql ser)\FlyLib\bin\Debug\FlyLib.dll
+E:\文档\项目\authmanager1.0.0(sql ser)\FlyLib\bin\Debug\FlyLib.pdb
+E:\文档\项目\authmanager1.0.0(sql ser)\FlyLib\obj\Debug\FlyLib.dll
+E:\文档\项目\authmanager1.0.0(sql ser)\FlyLib\obj\Debug\FlyLib.pdb
+E:\我的文档\项目\authmanager1.0.0(sql ser)\FlyLib\bin\Debug\FlyLib.dll
+E:\我的文档\项目\authmanager1.0.0(sql ser)\FlyLib\bin\Debug\FlyLib.pdb
+E:\我的文档\项目\authmanager1.0.0(sql ser)\FlyLib\obj\Debug\ResolveAssemblyReference.cache
+E:\我的文档\项目\authmanager1.0.0(sql ser)\FlyLib\obj\Debug\FlyLib.dll
+E:\我的文档\项目\authmanager1.0.0(sql ser)\FlyLib\obj\Debug\FlyLib.pdb

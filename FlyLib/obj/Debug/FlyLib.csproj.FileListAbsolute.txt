@@ -1,0 +1,5 @@
+E:\我的文档\项目\EMS\EMS\FlyLib\bin\Debug\FlyLib.dll
+E:\我的文档\项目\EMS\EMS\FlyLib\bin\Debug\FlyLib.pdb
+E:\我的文档\项目\EMS\EMS\FlyLib\obj\Debug\ResolveAssemblyReference.cache
+E:\我的文档\项目\EMS\EMS\FlyLib\obj\Debug\FlyLib.dll
+E:\我的文档\项目\EMS\EMS\FlyLib\obj\Debug\FlyLib.pdb

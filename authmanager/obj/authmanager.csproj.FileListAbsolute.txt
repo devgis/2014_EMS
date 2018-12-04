@@ -1,0 +1,71 @@
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\ResolveAssemblyReference.cache
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\cardmanage.adduser.resources
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\cardmanage.adduserrole.resources
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\cardmanage.changepassword.resources
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\cardmanage.editrole.resources
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\cardmanage.newrole.resources
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\cardmanage.login.resources
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\cardmanage.main.resources
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\authmanager.csproj.GenerateResource.Cache
+E:\文档\项目\authmanager1.0.0\authmanager\bin\Debug\authmanager.exe.config
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\authmanager.Properties.Resources.resources
+E:\文档\项目\authmanager1.0.0\authmanager\bin\Debug\authmanager.exe
+E:\文档\项目\authmanager1.0.0\authmanager\bin\Debug\authmanager.pdb
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\authmanager.exe
+E:\文档\项目\authmanager1.0.0\authmanager\obj\Debug\authmanager.pdb
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\authmanager.exe.config
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.exe
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.pdb
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\ResolveAssemblyReference.cache
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.Properties.Resources.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.csproj.GenerateResource.Cache
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\authmanager.exe
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\authmanager.pdb
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.adduserrole.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.login.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.adduser.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.changepassword.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.editrole.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.newrole.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.main.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.about.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.start.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.backupdatabase.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.revertdatabase.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.connectset.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.cleardb.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.uras.rpt
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.report.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\config.cfg
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.license.resources
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\FlyLib.dll
+E:\文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\FlyLib.pdb
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\authmanager.exe.config
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.exe
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.pdb
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\ResolveAssemblyReference.cache
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.uras.rpt
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.about.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.adduser.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.adduserrole.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.backupdatabase.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.changepassword.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.cleardb.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.connectset.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.editrole.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.newrole.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.login.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.main.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.Properties.Resources.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.report.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.revertdatabase.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.start.resources
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.csproj.GenerateResource.Cache
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\config.cfg
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\authmanager.exe
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\authmanager.pdb
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\FlyLib.dll
+E:\我的文档\项目\authmanager1.0.0(sql ser)\authmanager\bin\Debug\FlyLib.pdb
+E:\我的文档\项目\EMS\authmanager1.0.0(sql ser)\authmanager\bin\Debug\authmanager.exe.config
+E:\我的文档\项目\EMS\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.exe
+E:\我的文档\项目\EMS\authmanager1.0.0(sql ser)\authmanager\obj\Debug\authmanager.pdb
